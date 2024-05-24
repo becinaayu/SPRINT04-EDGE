@@ -29,7 +29,7 @@
     </td>
     <td>
       <div>
-        <b>Sprint 3 <br> Edge Computing & Computer Systems</b>
+        <b>Sprint 4 <br> Edge Computing & Computer Systems</b>
       <td> <b>Objetivo → <br> Proporcionar para as crianças no ICr uma experiência mais confortável e única </b> </td>
       </div>
     </td>
