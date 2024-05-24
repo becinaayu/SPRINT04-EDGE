@@ -72,7 +72,7 @@ No Wokwi, ou outra plataforma com apoio ao Arduino Uno de sua escolha, copie e c
 
 1. <a href="https://wokwi.com/"> Wokwi </a>
 2. <a href="https://tago.io/"> Tago </a>
-2. <a href="https://www.hivemq.com/demos/websocket-client/"> Tago </a>
+2. <a href="https://www.hivemq.com/demos/websocket-client/"> HiveMQ </a>
 
 <h2> Link do Projeto Principal no Wokwi </h2>
 <a href="https://wokwi.com/projects/398691556513530881"> Clique Aqui! </a>
