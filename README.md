@@ -50,6 +50,7 @@
 | 1          | Verde LED                     |
 | 5          | 220 Ω Resistor                |
 | 3          | Pushbutton                    |
+| 1          | Buzzer                        |
 
 <img height="450px" src="circuito.jpg" alt="Circuito">
 
