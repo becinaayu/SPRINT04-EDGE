@@ -59,7 +59,8 @@
 <h2> Configuração </h2>
 
 Conecte os componentes elétricos de forma adequada, caso tenha dúvidas, consulte o vídeo  abaixo:
-<a href="ExplicaçãoEdge.mp4"> Vídeo circuito </a>
+<a href="video_circuito.mp4"> Vídeo circuito </a>
+<a href="handson.mp4"> Hands On - Circuito </a>
 
 <h2> Código do Circuito </h2>
 
